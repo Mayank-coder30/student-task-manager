@@ -176,11 +176,11 @@ Frontend runs on: **[http://localhost:5173](http://localhost:5173)**
 
 ## 📸 Screenshots
 
-![Login Page](image-1.png)
-![Signup Page](image-2.png)
-![Home Page](image.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](<screenshots/Screenshot 2026-01-10 003422.png>)
+![alt text](<screenshots/Screenshot 2026-01-10 003511.png>)
+![alt text](<screenshots/Screenshot 2026-01-10 003546.png>)
+![alt text](<screenshots/Screenshot 2026-01-10 003953.png>)
+![alt text](<screenshots/Screenshot 2026-01-10 004108.png>)
 
 ---
 
